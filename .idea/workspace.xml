@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6fe84d9c-80df-49a3-93b5-03fcd88a7cc9" name="Default Changelist" comment="added constants and logging">
+      <change beforePath="$PROJECT_DIR$/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="ad2c25c5-7155-48f6-944f-d2dffa112562" />
+  </component>
+  <component name="ProjectId" id="1bfXBft2npHvxxhxQOwvOMtAZ8J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Air_battle_arena" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Air_battle_arena" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="Air_battle_arena" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="Air_battle_arena" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="Air_battle_arena" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fe84d9c-80df-49a3-93b5-03fcd88a7cc9" name="Default Changelist" comment="" />
+      <created>1589023987750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589023987750</updated>
+    </task>
+    <task id="LOCAL-00001" summary="started with README.rst">
+      <created>1589030429538</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589030429538</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added constants and logging">
+      <created>1589051837835</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589051837835</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="started with README.rst" />
+    <MESSAGE value="added constants and logging" />
+    <option name="LAST_COMMIT_MESSAGE" value="added constants and logging" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="754" y="243" key="#xdebugger.evaluate" timestamp="1589051599209">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state x="754" y="243" key="#xdebugger.evaluate/78.0.1842.1080@78.0.1842.1080" timestamp="1589051599209" />
+    <state x="255" y="90" key="DiffContextDialog" timestamp="1589030509871">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state x="255" y="90" key="DiffContextDialog/78.0.1842.1080@78.0.1842.1080" timestamp="1589030509871" />
+    <state x="779" y="295" key="FileChooserDialogImpl" timestamp="1589097112770">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state x="779" y="295" key="FileChooserDialogImpl/78.0.1842.1080@78.0.1842.1080" timestamp="1589097112770" />
+    <state x="863" y="438" width="490" height="260" key="Github.ShareDialog" timestamp="1589031123928">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state x="863" y="438" width="490" height="260" key="Github.ShareDialog/78.0.1842.1080@78.0.1842.1080" timestamp="1589031123928" />
+    <state x="731" y="239" key="Github.UntrackedFilesDialog" timestamp="1589024148282">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state x="731" y="239" key="Github.UntrackedFilesDialog/78.0.1842.1080@78.0.1842.1080" timestamp="1589024148282" />
+    <state width="801" height="952" key="GridCell.Tab.0.bottom" timestamp="1589096749338">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state width="801" height="952" key="GridCell.Tab.0.bottom/78.0.1842.1080@78.0.1842.1080" timestamp="1589096749338" />
+    <state width="801" height="952" key="GridCell.Tab.0.center" timestamp="1589096749338">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state width="801" height="952" key="GridCell.Tab.0.center/78.0.1842.1080@78.0.1842.1080" timestamp="1589096749338" />
+    <state width="801" height="952" key="GridCell.Tab.0.left" timestamp="1589096749338">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state width="801" height="952" key="GridCell.Tab.0.left/78.0.1842.1080@78.0.1842.1080" timestamp="1589096749338" />
+    <state width="801" height="952" key="GridCell.Tab.0.right" timestamp="1589096749338">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state width="801" height="952" key="GridCell.Tab.0.right/78.0.1842.1080@78.0.1842.1080" timestamp="1589096749338" />
+    <state x="500" y="185" key="SettingsEditor" timestamp="1589097516327">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state x="500" y="185" key="SettingsEditor/78.0.1842.1080@78.0.1842.1080" timestamp="1589097516327" />
+    <state x="591" y="273" key="Vcs.Push.Dialog.v2" timestamp="1589051857230">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state x="591" y="273" key="Vcs.Push.Dialog.v2/78.0.1842.1080@78.0.1842.1080" timestamp="1589051857230" />
+    <state x="170" y="92" width="1658" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1589028543357">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state x="170" y="92" width="1658" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog/78.0.1842.1080@78.0.1842.1080" timestamp="1589028543357" />
+    <state x="781" y="441" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1589031160203">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state x="781" y="441" key="git4idea.remote.GitConfigureRemotesDialog/78.0.1842.1080@78.0.1842.1080" timestamp="1589031160203" />
+    <state x="662" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1589034844899">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state x="662" y="235" width="672" height="678" key="search.everywhere.popup/78.0.1842.1080@78.0.1842.1080" timestamp="1589034844899" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../02_Automatizace_FAT/FAT_automation/main.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/constants.py</url>
+          <line>85</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
