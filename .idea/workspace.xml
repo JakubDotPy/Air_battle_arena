@@ -16,7 +16,12 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fe84d9c-80df-49a3-93b5-03fcd88a7cc9" name="Default Changelist" comment="added constants and logging" />
+    <list default="true" id="6fe84d9c-80df-49a3-93b5-03fcd88a7cc9" name="Default Changelist" comment="added project config">
+      <change afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,31 +58,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Z666660\Development\98_Small_projects\Air_battle_arena" />
+    </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="Air_battle_arena" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Air battle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Air_battle_arena" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,52 +87,9 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="Air_battle_arena" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="Air_battle_arena" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <module name="Air_battle_arena" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
+        <item itemvalue="Python.Air battle" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589051837835</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added project config">
+      <created>1589097770426</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589097770426</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,9 +158,14 @@
     </ignored-roots>
     <MESSAGE value="started with README.rst" />
     <MESSAGE value="added constants and logging" />
-    <option name="LAST_COMMIT_MESSAGE" value="added constants and logging" />
+    <MESSAGE value="added project config" />
+    <option name="LAST_COMMIT_MESSAGE" value="added project config" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="453" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589097831977">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state x="453" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/78.0.1842.1080@78.0.1842.1080" timestamp="1589097831977" />
     <state x="754" y="243" key="#xdebugger.evaluate" timestamp="1589051599209">
       <screen x="78" y="0" width="1842" height="1080" />
     </state>
@@ -228,42 +186,42 @@
       <screen x="78" y="0" width="1842" height="1080" />
     </state>
     <state x="731" y="239" key="Github.UntrackedFilesDialog/78.0.1842.1080@78.0.1842.1080" timestamp="1589097670159" />
-    <state width="801" height="952" key="GridCell.Tab.0.bottom" timestamp="1589096749338">
+    <state width="801" height="952" key="GridCell.Tab.0.bottom" timestamp="1589103459506">
       <screen x="78" y="0" width="1842" height="1080" />
     </state>
-    <state width="801" height="952" key="GridCell.Tab.0.bottom/78.0.1842.1080@78.0.1842.1080" timestamp="1589096749338" />
-    <state width="801" height="952" key="GridCell.Tab.0.center" timestamp="1589096749338">
+    <state width="801" height="952" key="GridCell.Tab.0.bottom/78.0.1842.1080@78.0.1842.1080" timestamp="1589103459506" />
+    <state width="801" height="952" key="GridCell.Tab.0.center" timestamp="1589103459506">
       <screen x="78" y="0" width="1842" height="1080" />
     </state>
-    <state width="801" height="952" key="GridCell.Tab.0.center/78.0.1842.1080@78.0.1842.1080" timestamp="1589096749338" />
-    <state width="801" height="952" key="GridCell.Tab.0.left" timestamp="1589096749338">
+    <state width="801" height="952" key="GridCell.Tab.0.center/78.0.1842.1080@78.0.1842.1080" timestamp="1589103459506" />
+    <state width="801" height="952" key="GridCell.Tab.0.left" timestamp="1589103459506">
       <screen x="78" y="0" width="1842" height="1080" />
     </state>
-    <state width="801" height="952" key="GridCell.Tab.0.left/78.0.1842.1080@78.0.1842.1080" timestamp="1589096749338" />
-    <state width="801" height="952" key="GridCell.Tab.0.right" timestamp="1589096749338">
+    <state width="801" height="952" key="GridCell.Tab.0.left/78.0.1842.1080@78.0.1842.1080" timestamp="1589103459506" />
+    <state width="801" height="952" key="GridCell.Tab.0.right" timestamp="1589103459506">
       <screen x="78" y="0" width="1842" height="1080" />
     </state>
-    <state width="801" height="952" key="GridCell.Tab.0.right/78.0.1842.1080@78.0.1842.1080" timestamp="1589096749338" />
-    <state x="500" y="185" key="SettingsEditor" timestamp="1589097727468">
+    <state width="801" height="952" key="GridCell.Tab.0.right/78.0.1842.1080@78.0.1842.1080" timestamp="1589103459506" />
+    <state x="500" y="185" key="SettingsEditor" timestamp="1589098401555">
       <screen x="78" y="0" width="1842" height="1080" />
     </state>
-    <state x="500" y="185" key="SettingsEditor/78.0.1842.1080@78.0.1842.1080" timestamp="1589097727468" />
-    <state x="591" y="273" key="Vcs.Push.Dialog.v2" timestamp="1589097701403">
+    <state x="500" y="185" key="SettingsEditor/78.0.1842.1080@78.0.1842.1080" timestamp="1589098401555" />
+    <state x="591" y="273" key="Vcs.Push.Dialog.v2" timestamp="1589097792615">
       <screen x="78" y="0" width="1842" height="1080" />
     </state>
-    <state x="591" y="273" key="Vcs.Push.Dialog.v2/78.0.1842.1080@78.0.1842.1080" timestamp="1589097701403" />
-    <state x="170" y="92" width="1658" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1589028543357">
+    <state x="591" y="273" key="Vcs.Push.Dialog.v2/78.0.1842.1080@78.0.1842.1080" timestamp="1589097792615" />
+    <state x="170" y="92" width="1658" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1589098658943">
       <screen x="78" y="0" width="1842" height="1080" />
     </state>
-    <state x="170" y="92" width="1658" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog/78.0.1842.1080@78.0.1842.1080" timestamp="1589028543357" />
+    <state x="170" y="92" width="1658" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog/78.0.1842.1080@78.0.1842.1080" timestamp="1589098658943" />
     <state x="781" y="441" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1589031160203">
       <screen x="78" y="0" width="1842" height="1080" />
     </state>
     <state x="781" y="441" key="git4idea.remote.GitConfigureRemotesDialog/78.0.1842.1080@78.0.1842.1080" timestamp="1589031160203" />
-    <state x="662" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1589034844899">
+    <state x="662" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1589099299750">
       <screen x="78" y="0" width="1842" height="1080" />
     </state>
-    <state x="662" y="235" width="672" height="678" key="search.everywhere.popup/78.0.1842.1080@78.0.1842.1080" timestamp="1589034844899" />
+    <state x="662" y="235" width="672" height="678" key="search.everywhere.popup/78.0.1842.1080@78.0.1842.1080" timestamp="1589099299750" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -274,9 +232,14 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/constants.py</url>
-          <line>85</line>
-          <option name="timeStamp" value="5" />
+          <url>file://$PROJECT_DIR$/game.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/game.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
