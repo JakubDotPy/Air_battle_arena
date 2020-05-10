@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BranchesTreeState">
-    <expand />
-    <select />
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fe84d9c-80df-49a3-93b5-03fcd88a7cc9" name="Default Changelist" comment="added constants and logging">
-      <change beforePath="$PROJECT_DIR$/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/constants.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="6fe84d9c-80df-49a3-93b5-03fcd88a7cc9" name="Default Changelist" comment="added constants and logging" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +36,13 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="ad2c25c5-7155-48f6-944f-d2dffa112562" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/JakubDotPy/Air_battle_arena.git" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1bfXBft2npHvxxhxQOwvOMtAZ8J" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -38,7 +53,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -165,7 +180,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -193,14 +220,14 @@
       <screen x="78" y="0" width="1842" height="1080" />
     </state>
     <state x="779" y="295" key="FileChooserDialogImpl/78.0.1842.1080@78.0.1842.1080" timestamp="1589097112770" />
-    <state x="863" y="438" width="490" height="260" key="Github.ShareDialog" timestamp="1589031123928">
+    <state x="863" y="438" width="490" height="260" key="Github.ShareDialog" timestamp="1589097654153">
       <screen x="78" y="0" width="1842" height="1080" />
     </state>
-    <state x="863" y="438" width="490" height="260" key="Github.ShareDialog/78.0.1842.1080@78.0.1842.1080" timestamp="1589031123928" />
-    <state x="731" y="239" key="Github.UntrackedFilesDialog" timestamp="1589024148282">
+    <state x="863" y="438" width="490" height="260" key="Github.ShareDialog/78.0.1842.1080@78.0.1842.1080" timestamp="1589097654153" />
+    <state x="731" y="239" key="Github.UntrackedFilesDialog" timestamp="1589097670159">
       <screen x="78" y="0" width="1842" height="1080" />
     </state>
-    <state x="731" y="239" key="Github.UntrackedFilesDialog/78.0.1842.1080@78.0.1842.1080" timestamp="1589024148282" />
+    <state x="731" y="239" key="Github.UntrackedFilesDialog/78.0.1842.1080@78.0.1842.1080" timestamp="1589097670159" />
     <state width="801" height="952" key="GridCell.Tab.0.bottom" timestamp="1589096749338">
       <screen x="78" y="0" width="1842" height="1080" />
     </state>
@@ -217,14 +244,14 @@
       <screen x="78" y="0" width="1842" height="1080" />
     </state>
     <state width="801" height="952" key="GridCell.Tab.0.right/78.0.1842.1080@78.0.1842.1080" timestamp="1589096749338" />
-    <state x="500" y="185" key="SettingsEditor" timestamp="1589097516327">
+    <state x="500" y="185" key="SettingsEditor" timestamp="1589097727468">
       <screen x="78" y="0" width="1842" height="1080" />
     </state>
-    <state x="500" y="185" key="SettingsEditor/78.0.1842.1080@78.0.1842.1080" timestamp="1589097516327" />
-    <state x="591" y="273" key="Vcs.Push.Dialog.v2" timestamp="1589051857230">
+    <state x="500" y="185" key="SettingsEditor/78.0.1842.1080@78.0.1842.1080" timestamp="1589097727468" />
+    <state x="591" y="273" key="Vcs.Push.Dialog.v2" timestamp="1589097701403">
       <screen x="78" y="0" width="1842" height="1080" />
     </state>
-    <state x="591" y="273" key="Vcs.Push.Dialog.v2/78.0.1842.1080@78.0.1842.1080" timestamp="1589051857230" />
+    <state x="591" y="273" key="Vcs.Push.Dialog.v2/78.0.1842.1080@78.0.1842.1080" timestamp="1589097701403" />
     <state x="170" y="92" width="1658" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1589028543357">
       <screen x="78" y="0" width="1842" height="1080" />
     </state>
